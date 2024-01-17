@@ -1,0 +1,104 @@
+
+     [
+      {
+        "customer_name": "John Smith",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "01-10-2022 15:30"
+      },
+      {
+        "customer_name": "Emily Johnson",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "02-10-2022 12:45"
+      },
+      {
+        "customer_name": "Michael Brown",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "03-10-2022 17:20"
+      },
+      {
+        "customer_name": "Sarah Davis",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "04-10-2022 10:00"
+      },
+      {
+        "customer_name": "Chris Wilson",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "05-10-2022 14:15"
+      },
+      {
+        "customer_name": "Amanda Lee",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "06-10-2022 09:30"
+      },
+      {
+        "customer_name": "Daniel Martinez",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "07-10-2022 16:45"
+      },
+      {
+        "customer_name": "Jessica Thompson",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "08-10-2022 13:00"
+      },
+      {
+        "customer_name": "Kevin Rodriguez",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "09-10-2022 11:20"
+      },
+      {
+        "customer_name": "Olivia Garcia",
+        "book_name": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "10-10-2022 18:00"
+      },
+      {
+        "customer_name": "Olivia Garcia",
+        "book_name": "The Great Love",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "10-10-2022 18:00"
+      },
+      {
+        "customer_name": "Kevin Rodriguez",
+        "book_name": "The Great Love",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "09-10-2022 11:20"
+      },    
+        {
+        "customer_name": "John Smith",
+        "book_name": "The Great Job",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "01-10-2022 15:30"
+      },
+      {
+        "customer_name": "John Smith 57",
+        "book_name": "The Great Job",
+        "description": "A novel by F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+        "price": 12.99,
+        "sale_data": "01-10-2022 15:30"
+      }
+
+    
+    ]
+  
